@@ -10,7 +10,7 @@ import { cn } from "@/lib/utils";
 
 interface ChatPanelProps {
   analysisResult: AnalysisResponse | null;
-  onAnalysisResult: (result: AnalysisResponse) => void;
+  onAnalysisResult: (result: AnalysisResponse | null) => void;
   onAnalyzing: (v: boolean) => void;
 }
 
@@ -149,7 +149,7 @@ export function ChatPanel({
 
       analyzeText(text)
         .then(result => { onAnalysisResult(result); onAnalyzing(false); })
-        .catch(() => onAnalyzing(false));
+        .catch(() => { onAnalysisResult(null); onAnalyzing(false); });
 
       let accumulated = "";
       streamChat(

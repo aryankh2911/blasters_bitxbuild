@@ -7,7 +7,7 @@ token classifications, 3-tier breakdown, script metadata, matched idioms.
 
 from __future__ import annotations
 
-from fastapi import APIRouter, Request
+from fastapi import APIRouter, HTTPException, Request
 from fastapi.responses import JSONResponse
 
 from core.intent_engine import run_pipeline
@@ -30,4 +30,7 @@ router = APIRouter()
 )
 @limiter.limit(settings.rate_limit_string)
 async def analyze(request: Request, body: AnalysisRequest) -> AnalysisResponse:
-    return await run_pipeline(body)
+    try:
+        return await run_pipeline(body)
+    except Exception as exc:
+        raise HTTPException(status_code=503, detail=f"Analysis unavailable: {exc}") from exc

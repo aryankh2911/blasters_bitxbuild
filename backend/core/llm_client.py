@@ -140,7 +140,7 @@ def _idiom_match_to_dict(m) -> dict:
 
 
 def _get_client() -> anthropic.AsyncAnthropic:
-    return anthropic.AsyncAnthropic(api_key=settings.anthropic_api_key)
+    return anthropic.AsyncAnthropic(api_key=settings.anthropic_api_key, timeout=25.0)
 
 
 def _is_mock() -> bool:
@@ -227,12 +227,8 @@ async def analyze_text_llm(
         )
 
     except Exception as exc:
-        logger.error("analyze_text_llm failed: %s — falling back to mock", exc)
-        mock = _MOCK_ANALYSIS.model_copy(deep=True)
-        mock.original_text = raw_text
-        mock.preprocessed_text = preprocessed_text
-        mock.script_metadata = script_metadata
-        return mock
+        logger.error("analyze_text_llm failed: %s", exc)
+        raise
 
 
 # ---------------------------------------------------------------------------
