@@ -35,7 +35,7 @@ no apologies. The JSON must conform exactly to this structure:
     {
       "token": "<exact word or punctuation from the preprocessed text>",
       "category": "<one of: english | vernacular | dialect_variant | reduplication | idiom_slang>",
-      "explanation": "<one sentence tooltip explaining why this category was assigned>"
+      "explanation": "<8-10 words max: why this category>"
     }
   ],
   "three_tier": {
@@ -67,6 +67,7 @@ no apologies. The JSON must conform exactly to this structure:
 7. The cultural_subtext must identify the register (formal/informal/intimate), \
    any regional markers, and the implied relationship between speakers.
 8. The register_tone label must be short (2–4 words, "/" separated if dual).
+9. KEEP TOKEN EXPLANATIONS BRIEF — 8-10 words maximum each. Speed matters.
 """
 
 

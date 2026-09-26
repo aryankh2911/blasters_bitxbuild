@@ -20,7 +20,7 @@ class Settings(BaseSettings):
     anthropic_api_key: str = ""
     model_id: str = "claude-sonnet-4-6"
     mock_llm: bool = True          # True → no API calls, returns canned responses
-    max_tokens: int = 4000         # Max tokens in LLM response — needs room for full JSON
+    max_tokens: int = 1500         # Max tokens in LLM response — 1500 fits complex inputs without verbose bloat
     temperature: float = 0.2       # Low temperature for structured analysis output
     chat_temperature: float = 0.65 # Higher temperature for natural conversational responses
     chat_max_tokens: int = 1024
