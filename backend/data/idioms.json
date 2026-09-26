@@ -1,0 +1,738 @@
+[
+  {
+    "phrase": "chai shai",
+    "canonical_form": "chai (aur kuch bhi)",
+    "literal": "tea and such things",
+    "pragmatic_intent": "Casual invitation or suggestion of a relaxed social pause. Signals low-pressure hospitality or a desire to unwind.",
+    "cultural_note": "Echo reduplication using the X-shayi pattern. 'Shai' has no independent meaning — it extends the noun to imply informality and plurality. Common across India and Pakistan.",
+    "category": "reduplication"
+  },
+  {
+    "phrase": "ghumna phumna",
+    "canonical_form": "ghumna (wagera)",
+    "literal": "to roam and wander",
+    "pragmatic_intent": "Leisure or aimless movement without a fixed goal. Often used to suggest a relaxed outing.",
+    "cultural_note": "'Phumna' is a nonsense echo rhyme. The reduplication softens the verb and signals a casual, unplanned quality to the activity.",
+    "category": "reduplication"
+  },
+  {
+    "phrase": "khaana waana",
+    "canonical_form": "khaana (waagerah)",
+    "literal": "food and that sort of thing",
+    "pragmatic_intent": "Refers to food in a dismissive or casual way, often when inviting someone to eat without making it sound like a formal obligation.",
+    "cultural_note": "Waana is a W-echo rhyme variant common in North Indian Hinglish. It signals that the speaker is being deliberately low-key about something.",
+    "category": "reduplication"
+  },
+  {
+    "phrase": "lete wete",
+    "canonical_form": "lena (wagera)",
+    "literal": "lying down and all that",
+    "pragmatic_intent": "Used to describe a state of doing nothing / resting without commitment. Often said with affection or mild teasing.",
+    "cultural_note": "W-echo reduplication. Suggests the person is being lazy but in an endearing or understandable way.",
+    "category": "reduplication"
+  },
+  {
+    "phrase": "sunta wunta",
+    "canonical_form": "sunna (wagera)",
+    "literal": "listening and such",
+    "pragmatic_intent": "Mild sarcasm or disbelief that the listener is actually paying attention.",
+    "cultural_note": "W-echo reduplication used rhetorically, often in questions like 'sunta wunta hai kuch?' — are you even listening?",
+    "category": "reduplication"
+  },
+  {
+    "phrase": "milna wilna",
+    "canonical_form": "milna (wagera)",
+    "literal": "to meet and all",
+    "pragmatic_intent": "Casual reference to meeting up, often with no fixed plan attached. Lowers the stakes of the social commitment.",
+    "cultural_note": "W-echo reduplication used to make social plans sound non-pressuring.",
+    "category": "reduplication"
+  },
+  {
+    "phrase": "paisa waisa",
+    "canonical_form": "paisa (wagera)",
+    "literal": "money and all that",
+    "pragmatic_intent": "Either dismissive of financial concerns ('paisa waisa mat soch') or an implicit request for money-related help.",
+    "cultural_note": "W-echo on 'paisa'. Tone depends heavily on context — can be generous ('paisa waisa main de dunga') or dismissive.",
+    "category": "reduplication"
+  },
+  {
+    "phrase": "kaam kharaab hai",
+    "canonical_form": "situation kharab hai",
+    "literal": "the work is ruined",
+    "pragmatic_intent": "Expresses that something has gone seriously wrong — not necessarily work-related. Can mean 'everything is messed up'.",
+    "cultural_note": "'Kaam' used loosely to mean 'situation' or 'matter' in colloquial usage across North India and Pakistan.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "dimag ka dahi",
+    "canonical_form": "dimag ka dahi karna",
+    "literal": "to turn the brain into yoghurt",
+    "pragmatic_intent": "To drive someone crazy with excessive talking, questioning, or nagging. Expresses exasperation.",
+    "cultural_note": "Curd (dahi) is something that has been broken down and changed irreversibly. Used to describe mental overload caused by another person.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "haath pair marna",
+    "canonical_form": "koshish karna",
+    "literal": "to beat hands and feet",
+    "pragmatic_intent": "To struggle hard, make frantic efforts to achieve something or escape a situation.",
+    "cultural_note": "Evokes the image of flailing — desperate physical effort. Used for any intense effort under pressure.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "naak mein dum",
+    "canonical_form": "bahut pareshaan karna",
+    "literal": "breath through the nose",
+    "pragmatic_intent": "To be totally exhausted or to be driven to the absolute limit by someone or something.",
+    "cultural_note": "Implies breathing is difficult — life is being choked out. Can mean 'you have driven me mad' or 'I am at my wit's end'.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "sir pe sawaar",
+    "canonical_form": "peecha na chhodna",
+    "literal": "riding on the head",
+    "pragmatic_intent": "Someone who is constantly pestering, following, or pressuring you. They won't leave you alone.",
+    "cultural_note": "Visual metaphor of someone mounted on your head — an overbearing presence that cannot be shaken off.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "taange ukhad gaye",
+    "canonical_form": "bahut thak gaya",
+    "literal": "legs have been uprooted",
+    "pragmatic_intent": "Extreme physical exhaustion — legs feel like they've given out completely.",
+    "cultural_note": "Uprooting imagery used for total bodily fatigue. Common after a long walk, travel, or physically demanding day.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "aankhein bichhaana",
+    "canonical_form": "kisi ka intezaar karna / khush aamadeed kehna",
+    "literal": "to spread the eyes",
+    "pragmatic_intent": "To eagerly await someone or to welcome them with great warmth and anticipation.",
+    "cultural_note": "Laying down one's gaze like a carpet is a Urdu-origin phrase of deep hospitality, now common in Hinglish formal-informal register.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "pait mein chuhe kudna",
+    "canonical_form": "bahut bhook lagna",
+    "literal": "mice jumping in the stomach",
+    "pragmatic_intent": "Extreme hunger — stomach is growling and unsettled.",
+    "cultural_note": "Evokes the sensation of internal movement from hunger. Humorous and vivid; common across North India.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "sar kha liya",
+    "canonical_form": "bahut bore kar diya / pareshaan kar diya",
+    "literal": "ate my head",
+    "pragmatic_intent": "Someone has been talking so much or pestering so relentlessly that it feels like they've consumed your mind.",
+    "cultural_note": "One of the most common idioms across Hinglish and Roman Urdu. Universally understood in South Asian digital communication.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "aankhon mein dhool jhonkna",
+    "canonical_form": "dhoka dena",
+    "literal": "to throw dust in the eyes",
+    "pragmatic_intent": "To deceive someone, to pull the wool over their eyes.",
+    "cultural_note": "Classic Urdu-origin idiom widely used in Hinglish contexts involving cheating, fraud, or deception.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "haath dhona",
+    "canonical_form": "kho dena",
+    "literal": "to wash hands of something",
+    "pragmatic_intent": "To lose something permanently, or to give up on something/someone.",
+    "cultural_note": "Dual meaning: either 'I'm done with this' (give up) or 'I've lost it forever'. Context distinguishes.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "baat ban gayi",
+    "canonical_form": "kaam ho gaya",
+    "literal": "the matter has been made",
+    "pragmatic_intent": "Things worked out. A situation resolved favorably, often unexpectedly.",
+    "cultural_note": "Celebratory expression. Common when a plan comes together or a problem resolves itself.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "daal mein kuch kaala hai",
+    "canonical_form": "kuch suspicious hai",
+    "literal": "there is something black in the lentils",
+    "pragmatic_intent": "Something is suspicious, something is off. A situation seems to be hiding something.",
+    "cultural_note": "Daal (lentils) is a staple food — something foreign in it signals contamination. Used to express suspicion or doubt.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "khoon khaulna",
+    "canonical_form": "bahut gussa aana",
+    "literal": "the blood is boiling",
+    "pragmatic_intent": "Extreme anger or righteous fury — often at an injustice.",
+    "cultural_note": "More intense than everyday anger — implies a deep, visceral reaction. Common in both Hinglish and Roman Urdu.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "chakkar mein aana",
+    "canonical_form": "ullu banana",
+    "literal": "to fall into someone's spin",
+    "pragmatic_intent": "To be tricked or manipulated by someone's clever scheme.",
+    "cultural_note": "'Chakkar' literally means spin/cycle. Falling into it means being caught in someone's scheme.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "muh band karna",
+    "canonical_form": "chup rehna",
+    "literal": "to close the mouth",
+    "pragmatic_intent": "To shut up, to stop talking, often used as a directive.",
+    "cultural_note": "Direct and slightly harsh. Used among friends or in frustrated moments. Less offensive than English 'shut up' in informal registers.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "peet peet ke pitai karna",
+    "canonical_form": "bahut marna",
+    "literal": "to beat by beating",
+    "pragmatic_intent": "Emphatic threat or description of a thorough beating. Usually hyperbolic among friends.",
+    "cultural_note": "Tautological intensification — common in South Asian rhetorical style for comic or threatening emphasis.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "jugaad lagaana",
+    "canonical_form": "koi jugaad sochna",
+    "literal": "to apply a workaround",
+    "pragmatic_intent": "To find a creative, improvised solution to a problem using whatever is available.",
+    "cultural_note": "'Jugaad' is one of the most culturally loaded words in South Asian English. Means frugal innovation, clever improvisation. Celebrated as an Indian mindset.",
+    "category": "slang"
+  },
+  {
+    "phrase": "kya scene hai",
+    "canonical_form": "kya ho raha hai",
+    "literal": "what's the scene",
+    "pragmatic_intent": "Casual inquiry about what's happening, what the plan is, or what's going on.",
+    "cultural_note": "Gen Z / millennial Hinglish. 'Scene' borrowed from English but used to mean 'situation' or 'vibe'. Very common on social media.",
+    "category": "slang"
+  },
+  {
+    "phrase": "bindaas",
+    "canonical_form": "bilkul befikar",
+    "literal": "without worry",
+    "pragmatic_intent": "Carefree, bold, unbothered. Can describe a person or attitude.",
+    "cultural_note": "Mumbai-origin slang from Marathi. Now pan-Indian. Connotes someone who is genuinely cool — not trying to be cool.",
+    "category": "slang"
+  },
+  {
+    "phrase": "jhand ho gaya",
+    "canonical_form": "bahut bura hua / fail ho gaya",
+    "literal": "became a mess",
+    "pragmatic_intent": "Something went very wrong, failed completely, or a situation became embarrassing.",
+    "cultural_note": "Crude slang now widely used in Hinglish without strong vulgarity connotation among young speakers. Common in Delhi NCR.",
+    "category": "slang"
+  },
+  {
+    "phrase": "mast hai",
+    "canonical_form": "bahut achha hai",
+    "literal": "it is intoxicating / excellent",
+    "pragmatic_intent": "Something is really good, enjoyable, or satisfying.",
+    "cultural_note": "Originally from Persian/Urdu meaning 'intoxicated'. Evolved to mean 'great' or 'cool'. Used across India and Pakistan informally.",
+    "category": "slang"
+  },
+  {
+    "phrase": "fattu",
+    "canonical_form": "darpu / darpaak",
+    "literal": "coward",
+    "pragmatic_intent": "Calling someone a coward, usually in a teasing or challenging way among peers.",
+    "cultural_note": "Common across North Indian Hinglish. Mild insult used among friends. Equivalent of calling someone chicken.",
+    "category": "slang"
+  },
+  {
+    "phrase": "bakwaas band kar",
+    "canonical_form": "baat karna band karo",
+    "literal": "stop the nonsense",
+    "pragmatic_intent": "Stop talking nonsense. Can be frustrated or playful depending on tone.",
+    "cultural_note": "'Bakwaas' is one of the most commonly used words in Hinglish — 'nonsense', 'rubbish'. Tone ranges from affectionate to harsh.",
+    "category": "slang"
+  },
+  {
+    "phrase": "timepass",
+    "canonical_form": "waqt guzaarna",
+    "literal": "passing the time",
+    "pragmatic_intent": "Something done with no serious purpose, just to kill time. Can describe an activity or even a relationship.",
+    "cultural_note": "South Asian English compound not used in standard English. Widely understood across all demographics.",
+    "category": "slang"
+  },
+  {
+    "phrase": "chamcha",
+    "canonical_form": "khushamad karne wala",
+    "literal": "spoon",
+    "pragmatic_intent": "A sycophant, someone who flatters superiors to gain favor.",
+    "cultural_note": "Spoon = feeds whatever the powerful person wants. Classic office/political insult in Hinglish, widely used across generations.",
+    "category": "slang"
+  },
+  {
+    "phrase": "chill maar",
+    "canonical_form": "relax karo",
+    "literal": "strike a chill",
+    "pragmatic_intent": "Relax, calm down, stop stressing.",
+    "cultural_note": "Hinglish hybrid verb: English 'chill' + Hindi verb 'maarna' (to strike/do). One of the most common code-mixed constructions in urban Indian speech.",
+    "category": "slang"
+  },
+  {
+    "phrase": "setting lagaana",
+    "canonical_form": "connection ya arrangement karna",
+    "literal": "to apply a setting",
+    "pragmatic_intent": "To use connections or influence to arrange something, often through unofficial channels.",
+    "cultural_note": "'Setting' borrowed from English but given a new meaning. Implies working the system through personal contacts.",
+    "category": "slang"
+  },
+  {
+    "phrase": "khatam tata bye bye",
+    "canonical_form": "bilkul khatam",
+    "literal": "finished, goodbye, goodbye",
+    "pragmatic_intent": "Emphatic finality — something is completely over, done with, finished. Can be triumphant or resigned.",
+    "cultural_note": "Reduplicative farewell formula mixing Hindi, English, and borrowed 'tata'. Common in social media and WhatsApp.",
+    "category": "slang"
+  },
+  {
+    "phrase": "ghanta",
+    "canonical_form": "bilkul nahi",
+    "literal": "a bell / an hour",
+    "pragmatic_intent": "Absolute negation or disbelief — 'not a chance', 'absolutely not'.",
+    "cultural_note": "Originally a crude expression, now widely desensitized in Hinglish, especially online. Common sarcastic denial among Gen Z.",
+    "category": "slang"
+  },
+  {
+    "phrase": "full on",
+    "canonical_form": "poori tarah se",
+    "literal": "fully on",
+    "pragmatic_intent": "Completely, entirely, at maximum intensity.",
+    "cultural_note": "South Asian English intensifier not quite matching standard English usage. 'She was full on crying' means she was crying intensely.",
+    "category": "slang"
+  },
+  {
+    "phrase": "ek number",
+    "canonical_form": "bilkul sahi / bahut achha",
+    "literal": "number one",
+    "pragmatic_intent": "Something is perfect, excellent, top quality.",
+    "cultural_note": "Used across North India and Pakistan as a superlative endorsement. More emphatic than 'theek hai'.",
+    "category": "slang"
+  },
+  {
+    "phrase": "solid hai",
+    "canonical_form": "bahut achha hai",
+    "literal": "it is solid",
+    "pragmatic_intent": "Something is very good, reliable, impressive.",
+    "cultural_note": "English 'solid' borrowed and used as a quality intensifier in Hinglish, common in college-age speech.",
+    "category": "slang"
+  },
+  {
+    "phrase": "pakka",
+    "canonical_form": "bilkul pakka / confirmed",
+    "literal": "ripe / cooked / firm",
+    "pragmatic_intent": "Definite, confirmed, certain. Can also mean trustworthy.",
+    "cultural_note": "One of the most versatile words in Hinglish. 'Pakka deal', 'pakka time pe aa' — used constantly in everyday South Asian digital communication.",
+    "category": "slang"
+  },
+  {
+    "phrase": "scene nahi hai",
+    "canonical_form": "hona possible nahi hai",
+    "literal": "there is no scene",
+    "pragmatic_intent": "It's not going to happen, it's not possible, don't expect it.",
+    "cultural_note": "The negation of 'kya scene hai'. Often a soft refusal — polite way of saying 'not happening'.",
+    "category": "slang"
+  },
+  {
+    "phrase": "maal",
+    "canonical_form": "cheez / saamaan / attractive person",
+    "literal": "goods / merchandise",
+    "pragmatic_intent": "Depending on context: referring to someone attractive (objectifying), or referring to a thing of value.",
+    "cultural_note": "Dual meaning — both material goods and a slang term for an attractive person. Context is essential. Common in Hinglish and Roman Urdu.",
+    "category": "slang"
+  },
+  {
+    "phrase": "larka",
+    "canonical_form": "ladka",
+    "literal": "boy",
+    "pragmatic_intent": "Refers to a boy or young man. No pragmatic difference from 'ladka' — purely a dialectal spelling variant.",
+    "cultural_note": "In Roman Urdu (Pakistani informal writing), the retroflex 'd' of Hindi 'ladka' becomes 'r', producing 'larka'. Both forms are mutually intelligible across the border.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "larki",
+    "canonical_form": "ladki",
+    "literal": "girl",
+    "pragmatic_intent": "Refers to a girl or young woman. Same retroflex shift as larka/ladka.",
+    "cultural_note": "Pakistani Roman Urdu variant of Hindi 'ladki'. Retroflex /ɽ/ written as 'r' in Urdu romanization.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "changa",
+    "canonical_form": "achha / theek",
+    "literal": "good / fine",
+    "pragmatic_intent": "A positive affirmation — something is good, a situation is fine, or agreement with a statement.",
+    "cultural_note": "Punjabi word widely used in North Indian Hinglish and in Pakistani informal speech. Warmer than 'theek hai', less formal than 'achha'.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "rabba",
+    "canonical_form": "rab / khuda / bhagwan",
+    "literal": "God / Lord",
+    "pragmatic_intent": "Exclamation of surprise, distress, or deep emotion. 'Rabba!' = 'Oh God!'",
+    "cultural_note": "Punjabi word for God, used as an exclamation across both Indian and Pakistani Punjabi-influenced Hinglish. More emotive than 'yaAllah' or 'bhagwan'.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "kithe",
+    "canonical_form": "kahan",
+    "literal": "where",
+    "pragmatic_intent": "Asking about location or destination. No pragmatic difference from 'kahan'.",
+    "cultural_note": "Punjabi word for 'where', common in Hinglish spoken by Punjabi speakers. Also appears in Roman Urdu texts from Punjab region of Pakistan.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "kyun ji",
+    "canonical_form": "kyun / kyun bhai",
+    "literal": "why (respectful)",
+    "pragmatic_intent": "Asking 'why' with a respectful or deferential tone. Softens the question.",
+    "cultural_note": "'Ji' is a South Asian honorific suffix (Hindi/Urdu). 'Kyun ji' is common in Pakistani and North Indian Hinglish where deference is built into questions.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "theek thaak",
+    "canonical_form": "theek / sahi salamat",
+    "literal": "fine and proper",
+    "pragmatic_intent": "Used to say someone or something is okay, in good health, or in working order.",
+    "cultural_note": "Reduplicative modifier common in both Hinglish and Roman Urdu. 'Thaak' is an echo that intensifies 'theek'. 'Sab theek thaak hai?' = 'Is everything alright?'",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "bilkul sahi",
+    "canonical_form": "bilkul theek / 100% sahi",
+    "literal": "absolutely correct",
+    "pragmatic_intent": "Strong agreement or confirmation. Can also be used sarcastically.",
+    "cultural_note": "Common agreement phrase across both Hinglish and Roman Urdu. Sarcastic usage is tonally distinguished by context.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "yaar sach mein",
+    "canonical_form": "sach mein",
+    "literal": "friend, truly",
+    "pragmatic_intent": "Expressing genuine surprise, disbelief, or sincerity. 'Are you serious?'",
+    "cultural_note": "'Yaar' (friend/buddy) as an address particle is common in both India and Pakistan. 'Sach mein' (truly) used for emphasis or disbelief.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "theek se",
+    "canonical_form": "sahi tarike se",
+    "literal": "in a fine manner",
+    "pragmatic_intent": "Do something properly, correctly, carefully. Often a gentle or firm directive.",
+    "cultural_note": "Used across all registers from scolding ('theek se karo!') to affectionate instruction. Common in both Hinglish and Roman Urdu.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "kal parso",
+    "canonical_form": "kuch dinon mein",
+    "literal": "tomorrow or the day after",
+    "pragmatic_intent": "Vague near-future reference — 'sometime soon'. Does not commit to a specific day.",
+    "cultural_note": "South Asian time expression used deliberately vaguely. Similar to 'one of these days'. Common across Hinglish and Urdu informal writing.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "waise bhi",
+    "canonical_form": "vaise bhi / waise bhi",
+    "literal": "anyway / besides",
+    "pragmatic_intent": "Transitional phrase used to add a supplementary point or to dismiss the current topic and move on.",
+    "cultural_note": "Discourse marker extremely common in Hinglish and Roman Urdu conversation. 'Waise bhi tu nahi aata' — 'you wouldn't have come anyway'.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "seedha baat kar",
+    "canonical_form": "sidhi baat karo",
+    "literal": "speak straight",
+    "pragmatic_intent": "Get to the point, stop beating around the bush.",
+    "cultural_note": "Directive common in situations where someone is being evasive. Tone can be frustrated or assertive.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "paanch minute mein aata hoon",
+    "canonical_form": "thodi der mein aata hoon",
+    "literal": "I'll be there in five minutes",
+    "pragmatic_intent": "Vague commitment to arrive 'soon' — the actual time could be 20-40 minutes.",
+    "cultural_note": "South Asian 'five minutes' is culturally understood to be an elastic timeframe. Receivers are expected to interpret it as 'sometime in the near future'.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "apna kaam banta bhaad mein jaaye janta",
+    "canonical_form": "apna kaam ho jaaye",
+    "literal": "let my work be done, let everyone else go to hell",
+    "pragmatic_intent": "Self-interested pragmatism — once my purpose is served, I don't care about others.",
+    "cultural_note": "Common cynical proverb used to describe selfish behavior, often humorously self-referential.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "josh mein",
+    "canonical_form": "jazbe mein / enthusiasm mein",
+    "literal": "in enthusiasm / in passion",
+    "pragmatic_intent": "In a state of excitement, high energy, or motivated action.",
+    "cultural_note": "'Josh' is a Persian-origin word deeply embedded in Urdu and Hinglish. 'Josh mein tha isliye bol diya' — said it because I was caught up in excitement.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "upar se yeh bhi",
+    "canonical_form": "iske alawa yeh bhi",
+    "literal": "on top of this, this too",
+    "pragmatic_intent": "Adding to a list of complaints or problems — 'and on top of everything, this too'.",
+    "cultural_note": "Used to express that a bad situation has been compounded by another problem. Tone is usually exasperated.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "kuch bhi",
+    "canonical_form": "anything / kuch bhi bol raha hai",
+    "literal": "anything / something random",
+    "pragmatic_intent": "Dismissal of something as nonsensical or irrelevant. 'You're saying anything' = you're talking rubbish.",
+    "cultural_note": "Used as a standalone exclamation ('kuch bhi!') to express disbelief at an absurd statement. Common in Hinglish social media.",
+    "category": "slang"
+  },
+  {
+    "phrase": "entry maarna",
+    "canonical_form": "enter karna (dramatic tarike se)",
+    "literal": "to strike an entry",
+    "pragmatic_intent": "To arrive somewhere dramatically or to make a noticeable entrance.",
+    "cultural_note": "Hybrid verb: English 'entry' + Hindi 'maarna'. The suffix 'maarna' turns nouns into verbs in Hinglish. Implies flair and showmanship.",
+    "category": "slang"
+  },
+  {
+    "phrase": "photon kheenchna",
+    "canonical_form": "photo lena",
+    "literal": "to pull photographs",
+    "pragmatic_intent": "To take photos, especially for social media.",
+    "cultural_note": "Hybrid construction: English 'photo' (plural informal 'photon' in some dialects) + Hindi 'kheenchna' (to pull/take). Informal colloquial usage.",
+    "category": "slang"
+  },
+  {
+    "phrase": "scene set karna",
+    "canonical_form": "arrangement karna",
+    "literal": "to set the scene",
+    "pragmatic_intent": "To arrange or prepare a situation for something to happen.",
+    "cultural_note": "'Scene set karna' suggests planning something — a party, a meeting, a scheme. Can be neutral or conspiratorial depending on context.",
+    "category": "slang"
+  },
+  {
+    "phrase": "mood off hai",
+    "canonical_form": "achha nahi lag raha",
+    "literal": "mood is off",
+    "pragmatic_intent": "Feeling low, not in the mood for anything, mildly depressed or irritable.",
+    "cultural_note": "Ubiquitous in Hinglish digital communication. 'Mood off' as a state is widely understood as a mild but real emotional signal.",
+    "category": "slang"
+  },
+  {
+    "phrase": "teri toh",
+    "canonical_form": "teri toh aisi ki taisi",
+    "literal": "yours is...",
+    "pragmatic_intent": "Expletive-adjacent expression of frustration or disbelief at someone's behavior or situation. Threat or exclamation.",
+    "cultural_note": "Truncated phrase — the full form is abusive, but 'teri toh' alone is widely used as a censored expression of exasperation.",
+    "category": "slang"
+  },
+  {
+    "phrase": "mazaa aa gaya",
+    "canonical_form": "bahut achha laga",
+    "literal": "fun has arrived",
+    "pragmatic_intent": "Something was deeply enjoyable, fun, or satisfying.",
+    "cultural_note": "Strong positive exclamation. 'Maza' (pleasure/fun) 'aa gaya' (has come/arrived) — common across India and Pakistan for entertainment or food.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "kaafi kuch",
+    "canonical_form": "bahut kuch / kaafi saari cheezein",
+    "literal": "quite a lot of things",
+    "pragmatic_intent": "Refers to a significant amount or variety of things without specifying — often used to imply complexity.",
+    "cultural_note": "'Kaafi' from Urdu/Persian meaning 'enough' but used colloquially to mean 'quite a lot'. Common in both Hinglish and Roman Urdu.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "jaldi aa",
+    "canonical_form": "jaldi aa ja",
+    "literal": "come quickly",
+    "pragmatic_intent": "Urgent request to arrive faster. Can be playful or genuinely urgent.",
+    "cultural_note": "Extremely common in WhatsApp messages. The add-on 'ja' ('just come') is often dropped but implied.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "woh wali baat",
+    "canonical_form": "woh cheez / woh topic",
+    "literal": "that particular thing",
+    "pragmatic_intent": "Reference to a specific thing or topic that both speakers understand without naming it. Implies shared knowledge.",
+    "cultural_note": "Used to avoid naming a sensitive or known topic explicitly. 'Woh wali baat mat karna' — don't bring up that particular subject.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "kuch toh gadbad hai",
+    "canonical_form": "kuch problem hai",
+    "literal": "there is some irregularity",
+    "pragmatic_intent": "Something is off or suspicious, though the speaker isn't sure what exactly.",
+    "cultural_note": "Often used to express a gut feeling that something is wrong. Famous in part due to Bollywood dialogue usage.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "abhi nahi",
+    "canonical_form": "is waqt nahi",
+    "literal": "not right now",
+    "pragmatic_intent": "Soft refusal or deferral. Can mean a genuine delay or a polite 'no'.",
+    "cultural_note": "Context distinguishes deferral from refusal. Tone and follow-up determine whether 'abhi nahi' means 'later' or 'never'.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "chalta hai",
+    "canonical_form": "theek hai / ho jaayega",
+    "literal": "it walks / it runs",
+    "pragmatic_intent": "Acceptance of imperfection. 'It'll do', 'it's fine', 'let it go'.",
+    "cultural_note": "One of the most culturally resonant phrases in Indian English. Represents a general attitude of acceptance toward imperfection or adversity. Sometimes critiqued as enabling mediocrity.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "sab bakwaas hai",
+    "canonical_form": "yeh sab jhooth hai",
+    "literal": "everything is nonsense",
+    "pragmatic_intent": "Complete dismissal of something as untrue, worthless, or meaningless.",
+    "cultural_note": "Strong dismissal. Can be cynical commentary on institutions, news, or a person's claims. Common in political and social discourse.",
+    "category": "slang"
+  },
+  {
+    "phrase": "band kar",
+    "canonical_form": "ruk ja / chup ho ja",
+    "literal": "close it / shut it",
+    "pragmatic_intent": "Stop doing something. Shut up, stop it, turn it off — depends on context.",
+    "cultural_note": "Imperative used for stopping behavior, sound, or speech. Less offensive than direct abuse but still assertive.",
+    "category": "slang"
+  },
+  {
+    "phrase": "tension mat le",
+    "canonical_form": "fikar mat kar",
+    "literal": "don't take tension",
+    "pragmatic_intent": "Don't worry, relax, everything will be fine.",
+    "cultural_note": "South Asian construction — 'take tension' = 'be anxious'. One of the most common calques in Indian English. Universally understood.",
+    "category": "slang"
+  },
+  {
+    "phrase": "kya kar raha hai",
+    "canonical_form": "kya kar raha hai / what are you doing",
+    "literal": "what are you doing",
+    "pragmatic_intent": "Depending on tone: genuine inquiry, mild disapproval, exasperation, or disbelief at someone's actions.",
+    "cultural_note": "The same phrase covers four different emotional registers in Hinglish depending on stress and context. Tone is everything.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "apna apna hai",
+    "canonical_form": "woh apna hi hai",
+    "literal": "he/she is one's own",
+    "pragmatic_intent": "This person is one of us, trustworthy, familiar, in our circle.",
+    "cultural_note": "The concept of 'apna' (one's own) is central to South Asian social relationships. Someone described as 'apna' is inside the trust circle.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "kat le",
+    "canonical_form": "nikal ja / chal nikal",
+    "literal": "cut and go",
+    "pragmatic_intent": "Leave, get out of here, escape a situation.",
+    "cultural_note": "Urban slang, popular in North Indian cities. Used when leaving quickly or advising someone to leave. Also 'kat gaya' = he left/bailed.",
+    "category": "slang"
+  },
+  {
+    "phrase": "ghoom ke aa",
+    "canonical_form": "bahar ja ke aa",
+    "literal": "go around and come back",
+    "pragmatic_intent": "Go out for a walk or casual outing and come back. Implies a casual, unplanned excursion.",
+    "cultural_note": "Common directive given affectionately to someone who seems restless or bored. 'Thoda ghoom ke aa' = go take a walk.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "pata nahi yaar",
+    "canonical_form": "mujhe nahi pata",
+    "literal": "don't know, friend",
+    "pragmatic_intent": "Genuine lack of knowledge, or evasion, or mild exasperation about an unknowable situation.",
+    "cultural_note": "'Yaar' (friend) softens the statement and makes it sound conversational. One of the most common sentence-enders in Hinglish.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "seedha jaao",
+    "canonical_form": "sidhe jaao",
+    "literal": "go straight",
+    "pragmatic_intent": "Go straight ahead (literal directions) OR stop complicating things and just do it (figurative).",
+    "cultural_note": "Dual literal/figurative meaning. Context distinguishes giving directions from giving life advice.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "bahut hua",
+    "canonical_form": "bas karo",
+    "literal": "enough has happened",
+    "pragmatic_intent": "That's enough, stop now, we've had too much of this.",
+    "cultural_note": "Expression of finality or exhaustion with a situation. Can be said with humor or genuine frustration.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "laga de",
+    "canonical_form": "start kar de / laga de",
+    "literal": "set it running",
+    "pragmatic_intent": "Start it, set it up, get it going — used for starting music, food preparation, a task.",
+    "cultural_note": "Versatile imperative. 'Gaana laga de' = play a song. 'Aag laga de' = set it on fire. Context determines the object completely.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "kya baat hai",
+    "canonical_form": "wah / bahut achha",
+    "literal": "what a thing",
+    "pragmatic_intent": "Expression of admiration, approval, or pleasant surprise.",
+    "cultural_note": "Classic Hinglish/Roman Urdu exclamation of appreciation. Can be sincere or sarcastic depending on tone. 'Kya baat hai yaar' = that's really something.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "kharcha paani",
+    "canonical_form": "kharch paani",
+    "literal": "expenses and water money",
+    "pragmatic_intent": "Basic expenses, pocket money, or a small amount paid for someone's trouble.",
+    "cultural_note": "'Paani' (water) historically referred to the smallest incidental costs. Together with 'kharcha' (expense), implies covering someone's travel and minor costs.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "ho jayega",
+    "canonical_form": "ho jaayega",
+    "literal": "it will happen",
+    "pragmatic_intent": "Reassurance that something will be done or will work out. Can be sincere or evasive.",
+    "cultural_note": "Like 'chalta hai', 'ho jayega' is culturally significant as an expression of optimism or vagueness about commitment. Listener context determines which.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "time waste mat kar",
+    "canonical_form": "waqt zaaya mat karo",
+    "literal": "don't waste time",
+    "pragmatic_intent": "Stop wasting time, get moving, be efficient.",
+    "cultural_note": "Hybrid construction: English 'time waste' + Hindi imperative. Very common in both Indian and Pakistani Hinglish/Roman Urdu contexts.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "dekh lena",
+    "canonical_form": "baad mein dekhenge",
+    "literal": "will look into it later",
+    "pragmatic_intent": "Vague commitment to deal with something later. Often means 'I'll handle it' but can be an avoidance.",
+    "cultural_note": "Extremely common deferral phrase in South Asian communication. Used across professional and personal contexts. Listener must judge sincerity from context.",
+    "category": "idiom"
+  },
+  {
+    "phrase": "sun na",
+    "canonical_form": "suno / ek kaam karo",
+    "literal": "listen, no",
+    "pragmatic_intent": "Attention-getting opener. 'Hey, listen' — used to introduce a request, piece of news, or change of topic.",
+    "cultural_note": "'Na' here is not negation but an intimacy particle common in Hinglish. Softens the command into an affectionate request.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "arre yaar",
+    "canonical_form": "arre bhai / yaar suno",
+    "literal": "oh friend",
+    "pragmatic_intent": "Exclamation of mild surprise, frustration, or affectionate address. Opener to a complaint or observation.",
+    "cultural_note": "'Arre' is a classic Hindi exclamation particle. Combined with 'yaar' (friend), it becomes the default opener for informal complaint or reaction in Hinglish.",
+    "category": "cross_dialect"
+  },
+  {
+    "phrase": "kuch nahi hoga",
+    "canonical_form": "kuch nahi hoga",
+    "literal": "nothing will happen",
+    "pragmatic_intent": "Dismissal of worry or fear — 'nothing bad will happen, stop overthinking'. Can also be pessimistic — 'nothing is going to change'.",
+    "cultural_note": "Tone-dependent phrase. Reassuring when said warmly; fatalistic when said with resignation. Extremely common in South Asian daily speech.",
+    "category": "idiom"
+  }
+]

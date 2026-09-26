@@ -1,0 +1,43 @@
+# Environment & secrets
+.env
+.env.*
+.env.local
+.env.*.local
+*.env
+secrets.json
+secrets.yaml
+secrets.yml
+config/secrets.*
+credentials.json
+credentials.yaml
+
+# API keys and tokens
+api_keys.txt
+api_keys.json
+*.key
+*.pem
+*.p12
+*.pfx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+.claude/settings.local.json
