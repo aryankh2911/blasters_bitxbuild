@@ -31,12 +31,36 @@ export async function analyzeText(text: string): Promise<AnalysisResponse> {
     body: JSON.stringify({ text }),
   });
 
-  if (!res.ok) {
+  if (!res.ok || !res.body) {
     const detail = await res.text().catch(() => res.statusText);
     throw new Error(`Analysis failed (${res.status}): ${detail}`);
   }
 
-  return res.json() as Promise<AnalysisResponse>;
+  // /analyze returns a single SSE event so Railway doesn't time out the connection
+  const reader = res.body.getReader();
+  const decoder = new TextDecoder();
+  let buffer = "";
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    buffer += decoder.decode(value, { stream: true });
+
+    const events = buffer.split("\n\n");
+    buffer = events.pop() ?? "";
+
+    for (const event of events) {
+      const line = event.replace(/^\n+|\n+$/g, "");
+      if (!line.startsWith("data: ")) continue;
+      const data = line.slice(6);
+      if (data === "[DONE]") continue;
+      if (data.startsWith("ERROR:")) throw new Error(data.slice(6));
+      reader.releaseLock();
+      return JSON.parse(data) as AnalysisResponse;
+    }
+  }
+
+  throw new Error("Analysis stream ended without a result");
 }
 
 // ---------------------------------------------------------------------------
